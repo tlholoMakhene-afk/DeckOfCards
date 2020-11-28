@@ -1,0 +1,7 @@
+C:\Users\pxyz6n\source\repos\DCards\DCards\bin\Debug\DCards.exe.config
+C:\Users\pxyz6n\source\repos\DCards\DCards\bin\Debug\DCards.exe
+C:\Users\pxyz6n\source\repos\DCards\DCards\bin\Debug\DCards.pdb
+C:\Users\pxyz6n\source\repos\DCards\DCards\obj\Debug\DCards.csprojAssemblyReference.cache
+C:\Users\pxyz6n\source\repos\DCards\DCards\obj\Debug\DCards.csproj.CoreCompileInputs.cache
+C:\Users\pxyz6n\source\repos\DCards\DCards\obj\Debug\DCards.exe
+C:\Users\pxyz6n\source\repos\DCards\DCards\obj\Debug\DCards.pdb
